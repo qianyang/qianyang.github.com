@@ -1,0 +1,198 @@
+#Unix/Linux开源世界资源链接汇总
+
+
+##一.内核Unix代码大全
+
+[Unix代码大全](http://minnie.tuhs.org/)
+
+[UnixV6](https://github.com/Rajmohan/UnixV6)
+
+[FreeBSD使用手册](http://www.freebsd.org/doc/zh_CN/books/handbook/index.html)
+
+[FreeBSD 系统结构手册](http://www.freebsd.org/doc/zh_CN/books/arch-handbook/)
+
+[FreeBSD Porter 手册](http://www.freebsd.org/doc/zh_CN/books/porters-handbook/)
+
+[FreeBSD 安装](http://wiki.freebsdchina.org/howto/i/installbsd)
+
+[GNU网站](http://www.gnu.org/)
+
+[GNU文件](http://ftp.gnu.org/gnu/)
+
+[GCC历史版本](http://ftp.gnu.org/gnu/gcc/)
+
+[redhat旧版本](http://ftp.heanet.ie/pub/redhat-archive/redhat/linux/)
+
+###Linux Kernel官方网站
+
+[https://lkml.org/](https://lkml.org/)
+
+[http://www.kernel.org/mirrors/](http://www.kernel.org/mirrors/)
+
+[http://www.centos.org/](http://www.centos.org/)
+
+[http://www.debian.org/mirror/](http://www.debian.org/mirror/)
+
+[http://www.ubuntu.org.cn](http://www.ubuntu.org.cn )
+
+[http://www.gentoo.org/](http://www.gentoo.org/)
+
+[http://www.linuxfoundation.org/](http://www.linuxfoundation.org/)
+
+[Linux代码在线浏览](http://lxr.linux.no/+trees)
+
+[cygwin是一个在windows平台上运行的unix模拟环境](http://www.cygwin.com/)
+
+###linux函数分析查询工具
+
+1.优先推荐linux 中man命令
+
+[2.一个不错的中文Linux手册](http://cpp.ezbty.org/manpage)
+
+[3.在线查英文Man手册](http://www.linuxmanpages.com/)
+
+[Linux常用命令全集-PHP10086](http://www.php10086.com/manual/Linux/)
+
+[DistroWatch](http://distrowatch.com/)
+
+[协议与标准RFC目录](http://www.ietf.org/rfc/ )
+
+[RFC中文目录](http://man.chinaunix.net/develop/rfc/default.htm)
+
+##镜像(略)
+
+##博客论坛
+
+[oldlinux博客论坛](http://oldlinux.org/index_cn.html)
+
+[学无止境](http://blog.csdn.net/21aspnet)
+
+[莱昂氏unix源代码分析导读](http://blog.csdn.net/cszhao1980/article/details/7565679)
+
+[Allen开放源码研究室](http://blog.permastyle.com/)
+
+[Nginx源码分析](http://blog.csdn.net/lengzijian/article/category/1098804)
+
+[淘宝内核组](http://kernel.taobao.org/)
+
+[Linux内核之旅](http://www.kerneltravel.net/)
+
+[小白学Linux之内核模块编程](http://blog.csdn.net/tigerjb/article/details/6010997)
+
+[淘宝开源](http://code.taobao.org/)
+
+[淘宝搜索技术博客](http://www.searchtb.com/)
+
+[淘宝核心系统团队博客](http://rdc.taobao.com/blog/cs/)    技术很好，有很多高手链接
+
+[黑夜路人](http://blog.csdn.net/heiyeshuwu/)    百度资深工程师，国内业界有一定影响
+
+[nodejs](http://www.cnodejs.org/)
+
+##Web服务器
+
+[Apache](http://www.apache.org/)    传统老牌稳定庞大，但是还是有很多大站使用
+
+[nginx](http://nginx.org/ )   新奇小巧俄罗斯第二大网站推广静态负载不错，也可以反向代理，目前很火热
+
+[Tengine](http://tengine.taobao.org/index_cn.html)    Tengine是淘宝在nginx上的改进版
+
+[cherokee](http://www.cherokee-project.com/)    号称是目前最快的 Web 服务器软件，在性能上，甚至比 Nginx 还略胜一筹
+
+[lighttpd](http://www.lighttpd.net/ )    德国人的，适合图片负载
+
+[thttpd](http://www.acme.com/software/thttpd/ )    一款小型/快速/非阻塞的HTTP服务程序
+
+[varnish](http://www.varnish-cache.org/)    反向代理，比squid性能好，很新
+
+[squid](http://www.squid-cache.org/)    老牌的反向代理
+
+
+##存储
+
+[谷歌趋势](www.google.cn/trends?q=memcached%2CRedis%2CMongoDB%2CHBase&ctab=0&geo=all&date=all&sort=0)
+
+[中文nosql网站](http://blog.nosqlfan.com/ )
+
+##搜索
+
+[Sphinx](http://sphinxsearch.com/ )    这个是全文检索
+
+[Xapian](http://xapian.org/)    
+
+##分布式Hadoop
+
+[gearman分布式](http://erlang.org/)
+
+##监控
+
+[Valgrind](http://valgrind.org/ )    内存调试、内存泄漏检测以及性能分析的软件开发工具 
+
+[Cacti](http://www.cacti.net/ )
+
+[nmon](http://nmon.sourceforge.net/pmwiki.php?n=Main.HomePage )
+
+##框架
+
+[Smarty](http://www.smarty.net/ )
+
+模板框架
+
+[CI CodeIgniter](http://www.codeigniter.com )
+
+[Zend](http://framework.zend.com/ )    名气很大,ZF 的组件结构独一无二，每个组件几乎不依靠其他组件
+
+[Zend](http://codeigniter.org.cn/Zend )    简洁小巧，影响很大中文社区
+  
+[Yii](http://www.yiichina.org/ )    基于组件、用于开发大型 Web 应用的 高性能 PHP 框架 
+
+中文社区
+
+[cakephp](http://cakephp.org/ )  
+
+[symfony](http://www.symfony-project.org/ )    MVC框架，视图支持Ajax,数据库事务，用户验证
+
+
+
+##CMS
+
+1.[wordpress](http://wordpress.org/)
+强大无须过多解释，适合做博客，但是它也可以当作简单的cms系统来用。Wordpress因为它的 安装简单和可扩展性好几乎已经成了独立搭建Blog平台的第一选择。
+
+
+2.[Joomla](http://www.joomla.org/)
+强大的CMS，在中国有人称呼逐浪， Mambo的分支，是Mambo核心开发团队另起炉灶的产品。Joomla的长处是在对外网站的建设方面，应用了非常多的网站进步的新技术，有上千种不同网站应用的附加套件及美工设计布景，另外可搭配的多种所视即所 得编辑程序，很简易的就可以管理和编辑网站上的文章。
+
+
+3.[drupal](http://drupal.org/)
+强大的CMS，Drupal的长处和joomla非常相似，在制作网站方面有着优秀的表现。同样也受到众多个人用户的支持。
+
+
+4.曼波－[MAMBO](http://www.mamboserver.com/)
+一个国外的CMS系统，功能很强大，支持添加很多组件，模块;拥有丰富的模板.Mambo是一个网站内容管理系统(CMS)，它是网站 的后台引擎，使网站内容的创建、管理和共享更加简易。Mambo十分强大，但官方网站也承认，它不是典型的“门户”网站解决方案。
+
+
+5.[plonePlone](http://plone.org/)超强的稳定性、强健的架构、广泛的扩展性，使得其成为企业级开源CMS的最佳选择，而事实上plone的用户也多是企业，在plone的 应用中，有70%都是作为企业内部的管理系统，仅有30%用在外部网站建设上。
+
+
+---------------------------下面是国货---------------------------------
+1.[DEDE](http://www.dedecms.com/) －这是一款开源的cms。功能也比较完善，但数据量一大就很慢了。因为开源，有较多的玩家和拥护者。
+
+
+2.[php168](http://www.php168.com/) －PHP168整站系统，代码全部开源，可方便的进行二次开发，功能模块可以自由安装与删除，个人用户免费使用。
+
+
+3.[phpcms](http://www.phpcms.cn/)－一个综合的网站管理系统，由PHP+MYSQL构架全站生成html，能够快速高效地应用于LINUX和WINDOWS服务器平台，是目前中国LINUX环境下最佳的网站管理应用解决方案之一
+
+
+4.帝国网站管理系统－[Ecms](http://www.phome.net/)全称为”帝国网站管理系统”，英文译为”Empire CMS”简称”Ecms”.Ecms是基于B/S结构，且功能强大而易用的网站管理系统．
+
+
+5.[HBcms](http://www.hbcms.com/) ：一个以PHP官方推荐的PEAR+SMARTY技术架构的cms，2006年才推出，完全符合cms的发展趋势，简单，易用，美观。我本地测试了一下， 很容易上手，特别适合没经验的新人做网站。起码不会被复杂的功能吓倒。当然，它同样有各种复杂的功能，只是看你是否需要用到了。使用PHP官方推荐的 PEAR+SMARTY技术，是这个cms能持续发展的一个重要的特点，很多功能都直接使用PEAR的类库完成。安装一步到位，默认附带了一些模板，值得 推荐。值得注意的是，官方网站宣称以后要开源，如果真这样，熟悉pear的PHP程序员就容易上手了。
+
+
+
+6.风讯网站内容管理系统[FoosunCMS](http://www.foosun.cn/)－是风讯公司积多年经验、通过设计师们精心设计的符合国际要求的网站信息管理系统。
+
+
+
