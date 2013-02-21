@@ -120,7 +120,7 @@ published: true
 
 ##存储
 
-[谷歌趋势](www.google.cn/trends?q=memcached%2CRedis%2CMongoDB%2CHBase&ctab=0&geo=all&date=all&sort=0)
+[谷歌趋势](http://www.google.cn/trends?q=memcached%2CRedis%2CMongoDB%2CHBase&ctab=0&geo=all&date=all&sort=0)
 
 [中文nosql网站](http://blog.nosqlfan.com/ )
 
