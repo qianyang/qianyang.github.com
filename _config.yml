@@ -2,7 +2,7 @@ meta:
     site_title: "千阳's blog"
     site_subtitle: "痛苦的日子才是最好的日子"
     site_language: "zh-cn"
-    absolute_baseurl: http://art.yanping.me
+    absolute_baseurl: http://qianyang.me
     domain: yanping.me
     author:
         full_name:Chen Yanping
@@ -10,7 +10,7 @@ meta:
         name&#58 ypchen
         email&#58 chen@yanping.me
 
-url: http://art.yanping.me
+url: http://qianyang.me
 
 #baseurl: /base
 
@@ -31,6 +31,6 @@ disqus_short_name: ypchenstory
 
       
 css:
-    - /css/screen.css
+    - /css/screen1.css
 
 
